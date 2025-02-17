@@ -6,10 +6,10 @@ const App = () => {
       <h1>Карточки</h1>
 
       {/* Карточка с изображением */}
-      <Card
+        <Card
         title="Card title"
         text="Some quick example text to build on the card title and make up the bulk of the card's content."
-        image="https://placehold.co/286x180"
+        image="/images/card1.jpg"
       >
         <a href="#" className="btn btn-primary">
           Go somewhere
